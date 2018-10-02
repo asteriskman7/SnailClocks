@@ -44,5 +44,7 @@ Many snail shells (each, one of two colors) are dropped from above and fall down
 The eyes of two hypnosnails will take over your mind while displaying the time. Every digit is made from many connected points that create the digit outline. Over time, those points are [morphed](https://en.wikipedia.org/wiki/Morphing) from their position in the previous time's digit to their position in the next time's digit. The morphing has some [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise) applied to keep your mind open to suggestion.
 
 # Space Snail Party Clock
+Snails are out for a space party, orbiting their favorite point. As they move around, they take up positions so that you will see the current time when they line up properly once per minute. Snails in the back must be careful so that when it's not yet their time to shine as time pieces they will be [eclipsed](https://en.wikipedia.org/wiki/Eclipse) by their friends in front.
 
 # Psychedelic Abstract Clock
+The snail has asked 3 of its friends, the duck, sheep, and robot, to help it tell the time. Each sits on the end of a clock hand (hour, minute, second, millisecond) but instead of revolving around the center of the clock, each hand revolves around the tip of the hand slower than itself. It's possible that the 4 friends have consumed some [mind altering substance](https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide) to produce this clock. Groovy!
