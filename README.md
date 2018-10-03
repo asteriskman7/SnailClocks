@@ -19,7 +19,7 @@ Number | Date | Description | Link
 12     | October 12, 2018 | - | -
 
 # Hilbert Snail Clock
-The snail traces out the path of a [hilbert curve](https://en.wikipedia.org/wiki/Hilbert_curve) over the course of an hour. The highlighted bulge traverses the current path once per minute.
+The snail traces out the path of a level 6 [hilbert curve](https://en.wikipedia.org/wiki/Hilbert_curve) over the course of an hour. The highlighted bulge traverses the current path once per minute.
 
 # Snail Shell Clock
 The current time winds its way up from the center of the snail's shell following a [logarithmic spiral](https://en.wikipedia.org/wiki/Logarithmic_spiral). The center of the spiral is infinitely distant in the future.
