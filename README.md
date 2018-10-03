@@ -1,4 +1,4 @@
-# SnailClocks
+# SnailClocks 🐌
 
 Starting on Friday, July 27, 2018 and for a total of 12 consecutive Fridays, I created various types of clocks that are snail themed in some way.
 
