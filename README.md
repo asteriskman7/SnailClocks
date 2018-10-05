@@ -14,7 +14,7 @@ Starting on Friday, July 27, 2018 and for a total of 12 consecutive Fridays, I c
 8      | September 14, 2018 | [Hypnosnails Clock](#hypnosnails-clock) | https://asteriskman7.github.io/SnailClock8/
 9      | September 21, 2018 | [Space Snail Party Clock](#space-snail-party-clock) | https://asteriskman7.github.io/SnailClock9/
 10     | September 28, 2018 | [Psychedelic Abstract Clock](#psychedelic-abstract-clock) | https://asteriskman7.github.io/SnailClock10/
-11     | October 5, 2018 | - | -
+11     | October 5, 2018 | [SASA Control Room Clock](#sasa-control-room-clock) | https://asteriskman7.github.io/SnailClock11/
 12     | October 12, 2018 | - | -
 
 ## Hilbert Snail Clock
@@ -47,6 +47,7 @@ Snails are out for a space party, orbiting their favorite point. As they move ar
 ## Psychedelic Abstract Clock
 The snail has asked 3 of its friends, a duck, a sheep, and a robot, to help it tell the time. Each sits on the end of a clock hand (hour, minute, second, millisecond) but instead of revolving around the center of the clock, each hand revolves around the tip of the hand slower than itself. The 4 friends may have consumed some [mind altering substance](https://en.wikipedia.org/wiki/Lysergic_acid_diethylamide) before producing this clock. Groovy!
 
-## CLOCK 11
+## SASA Control Room Clock
+Following their heros of NASA's [Apollo 11 Mission](https://www.nasa.gov/mission_pages/apollo/missions/apollo11.html), the snails are on their way to the moon. The live transcript includes the current time and the orbit display shows the snail-craft's current position as it orbits the Earth once per hour. The transcripts are generated with a size 2 ngram [Markov chain](https://en.wikipedia.org/wiki/Markov_chain) extracted from the [Apollo 11 transcripts](https://www.jsc.nasa.gov/history/mission_trans/apollo11.htm).
 
 ## CLOCK 12
