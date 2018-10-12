@@ -1,9 +1,10 @@
 # SnailClocks 🐌
 
-Starting on Friday, July 27, 2018 and for a total of 12 consecutive Fridays, I created various types of clocks that are snail themed in some way.
+Starting on Friday, July 27, 2018 and for a total of 12 consecutive Fridays, I created various types of clocks that are snail themed in some way. 
 
 \# | Date | Description | Link
 -------|------|-------------|-----
+0      | July 13, 2018 | [Koch Walking Snail Clock](#koch-walking-snail-clock) | https://jsfiddle.net/asteriskman/wsqL9eof/embedded/result/dark/
 1      | July 27, 2018 | [Hilbert Snail Clock](#hilbert-snail-clock) | https://jsfiddle.net/asteriskman/bwpeL0qk/embedded/result/dark/
 2      | August 3, 2018 | [Snail Shell Clock](#snail-shell-clock) | https://jsfiddle.net/asteriskman/9z4kmjts/embedded/result/dark/
 3      | August 10, 2018 | [Snail Slime Clock](#snail-slime-clock) | http://jsfiddle.net/asteriskman/51jyx9Lt/embedded/result/dark/
@@ -17,8 +18,11 @@ Starting on Friday, July 27, 2018 and for a total of 12 consecutive Fridays, I c
 11     | October 5, 2018 | [SASA Control Room Clock](#sasa-control-room-clock) | https://asteriskman7.github.io/SnailClock11/
 12     | October 12, 2018 | [World Snail Eclipse Clock](#world-snail-eclipse-clock) | https://asteriskman7.github.io/SnailClock12/
 
+## Koch Walking Snail Clock
+This clock was the original inspiration for the snail clock project. I created it when someone complained that a snail emoji in my nickname wasn't moving. The [Koch snowflake](https://en.wikipedia.org/wiki/Koch_snowflake) is my favorite fractal. I generated it using an [L-system](https://en.wikipedia.org/wiki/L-system).
+
 ## Hilbert Snail Clock
-The snail traces out the path of a level 6 [hilbert curve](https://en.wikipedia.org/wiki/Hilbert_curve) over the course of an hour. The highlighted pulse traverses the current path once per minute.
+The snail traces out the path of a level 6 [hilbert curve](https://en.wikipedia.org/wiki/Hilbert_curve) over the course of an hour. The highlighted pulse traverses the current path once per minute. Just like the [Koch Walking Snail Clock](#koch-walking-snail-clock), the hilbert curve was generated with an [L-system](https://en.wikipedia.org/wiki/L-system).
 
 ## Snail Shell Clock
 The current time winds its way up from the center of the snail's shell following a [logarithmic spiral](https://en.wikipedia.org/wiki/Logarithmic_spiral). The center of the spiral is infinitely distant in the future.
