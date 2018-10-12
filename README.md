@@ -15,7 +15,7 @@ Starting on Friday, July 27, 2018 and for a total of 12 consecutive Fridays, I c
 9      | September 21, 2018 | [Space Snail Party Clock](#space-snail-party-clock) | https://asteriskman7.github.io/SnailClock9/
 10     | September 28, 2018 | [Psychedelic Abstract Clock](#psychedelic-abstract-clock) | https://asteriskman7.github.io/SnailClock10/
 11     | October 5, 2018 | [SASA Control Room Clock](#sasa-control-room-clock) | https://asteriskman7.github.io/SnailClock11/
-12     | October 12, 2018 | - | -
+12     | October 12, 2018 | [World Snail Eclipse Clock](#world-snail-eclipse-clock) | https://asteriskman7.github.io/SnailClock12/
 
 ## Hilbert Snail Clock
 The snail traces out the path of a level 6 [hilbert curve](https://en.wikipedia.org/wiki/Hilbert_curve) over the course of an hour. The highlighted pulse traverses the current path once per minute.
@@ -50,4 +50,5 @@ The snail has asked 3 of its friends, a duck, a sheep, and a robot, to help it t
 ## SASA Control Room Clock
 Following their heros of NASA's [Apollo 11 Mission](https://www.nasa.gov/mission_pages/apollo/missions/apollo11.html), the snails have embarked on a mission of their own. The live transcript includes the current time and the orbit display shows the snail-craft's current position as it orbits the Earth once per hour. The transcripts are generated with a size 2 ngram [Markov chain](https://en.wikipedia.org/wiki/Markov_chain) extracted from the [Apollo 11 transcripts](https://www.jsc.nasa.gov/history/mission_trans/apollo11.htm).
 
-## CLOCK 12
+## World Snail Eclipse Clock
+All the universe is carried on the back of The World Snail, Asteriskia Manua. This fact is usually hidden from our everyday experience but on special occasions (like once per hour) the curtain is pulled back and the truth is revealed. This is mostly just an exercise in learning more about [Three.js](https://threejs.org/), using the graphing calculator at [desmos.com](https://www.desmos.com/calculator) to come up with good equations to represent behaviors, and simulating one of the most spectacular events I've ever witnessed, a [solar eclipse](https://eclipse.gsfc.nasa.gov/solar.html).
